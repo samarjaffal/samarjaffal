@@ -6,7 +6,6 @@
 I'm a Javascript Developer with more than 4 years of experience working on web technologies 👩🏻‍💻
 
 ### ✨ About me 
-- Currently working as a **Software Engineer I** at [Venemergencia](https://www.venemergencia.com/)
 - I was a backend developer and I don't know how I ended up as a Frontend Developer (but I :heart: it!)
 - Currently working with my best friends: React.js and Next.js 
 - Looking to improve and create great stuff ⚡️
